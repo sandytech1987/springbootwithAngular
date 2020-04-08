@@ -9,6 +9,7 @@ public class SpringBootEcommerceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootEcommerceApplication.class, args);
 		System.out.println("hi sandeep");
+		System.out.println("hi madhav");
 	}
 
 }
