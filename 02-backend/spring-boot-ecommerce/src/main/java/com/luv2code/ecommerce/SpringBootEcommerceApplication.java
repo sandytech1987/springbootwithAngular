@@ -10,6 +10,7 @@ public class SpringBootEcommerceApplication {
 		SpringApplication.run(SpringBootEcommerceApplication.class, args);
 		System.out.println("hi sandeep");
 		System.out.println("hi madhav");
+		System.out.println("hi ravi");
 	}
 
 }
